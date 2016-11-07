@@ -1,0 +1,1 @@
+module Post.View exposing (..)

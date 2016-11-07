@@ -1,0 +1,1 @@
+module Post.Models exposing (..)
